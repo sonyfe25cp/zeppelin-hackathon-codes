@@ -1,12 +1,14 @@
-Zeppelin on Lucene
-
-##Introduction
+##Zeppelin on Lucene
 
 Our project in the Hackathon supported by Spark and Zeppelin Community.
 
 Location: The No.1 building of Microsoft, Beijing
 
 Time: 2015-8-22 to 2015-8-23
+
+Hackathon: [https://hackdash.org/dashboards/bj0815](https://hackdash.org/dashboards/bj0815)
+
+Event Schedule: [http://beijingsparkcommunity.azurewebsites.net/](http://beijingsparkcommunity.azurewebsites.net/)
 
 
 ##How to use this interpreter?
