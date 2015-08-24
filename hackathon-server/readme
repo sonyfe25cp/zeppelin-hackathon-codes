@@ -1,0 +1,16 @@
+###结构
+
+Router --> Service
+
+###现状
+
+暂时没有Router可用
+
+于是Client分别对应不同的端口，等有了Router，再统一切换
+
+news-search.sh 5678
+weixinaccountSearcher 5679
+weixinpostSearcher 5680
+emotion 5681
+sentitiveWord 5682
+eventLocation 5683

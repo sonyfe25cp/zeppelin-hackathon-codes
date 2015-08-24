@@ -1,0 +1,15 @@
+*.class
+.idea/
+*.iml
+bin/
+.project
+.settings/
+.classpath
+target/
+.DS_Store
+deploy.sh
+hackathon-client/gen-java/
+hackathon-server/gen-java/
+gen-java/
+hackathon-index/
+hs_err_pid*

@@ -1,0 +1,20 @@
+Text
+http://zeppelin.incubator.apache.org/docs/displaysystem/display.html
+
+Text
+Zeppelin prints output of language backend in text, by default.
+
+
+
+You can explicitly say you're using text display system.
+
+
+
+Note that display system is backend independent.
+
+
+
+
+Html
+With '%html' directive, Zeppelin treats your output as html
+
